@@ -5,3 +5,5 @@ const SeachBar = () => {
         </div>
     )
 }
+
+export default SeachBar

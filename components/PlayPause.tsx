@@ -1,4 +1,4 @@
-const RelatedSongs = () => {
+const PlayPause = () => {
     return (
         <div>
             Loader
@@ -6,4 +6,4 @@ const RelatedSongs = () => {
     )
 }
 
-export default RelatedSongs
+export default PlayPause
